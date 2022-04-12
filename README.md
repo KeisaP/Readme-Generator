@@ -50,4 +50,3 @@ npm test
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at kportress@yahoo.com. You can find more of my work at [KeisaP](https://github.com/KeisaP/).
-
